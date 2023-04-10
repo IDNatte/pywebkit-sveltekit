@@ -6,7 +6,7 @@ pefile==2023.2.7
 proxy-tools==0.1.0
 pycparser==2.21
 pyinstaller==5.9.0
-pyinstaller-hooks-contrib==2023.1
+pyinstaller-hooks-contrib==2023.2
 pythonnet==3.0.1
 pywebview==4.0.2
 pywin32-ctypes==0.2.0
