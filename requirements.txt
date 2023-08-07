@@ -1,7 +1,7 @@
 altgraph==0.17.3
 bottle==0.12.25
 cffi==1.15.1
-clr-loader==0.2.5
+clr-loader==0.2.6
 pefile==2023.2.7
 proxy-tools==0.1.0
 pycparser==2.21
